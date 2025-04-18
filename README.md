@@ -1,4 +1,3 @@
-Here’s an updated version of the README with better styling and additional details about the algorithms used in the project:
 
 ---
 
@@ -129,4 +128,4 @@ Here are a few examples of visual outputs from the project:
 
 ---
 
-Feel free to copy and paste this content into your `README.md` file! It’s styled for better readability and includes details about the algorithms used. Let me know if you need further assistance.
+
